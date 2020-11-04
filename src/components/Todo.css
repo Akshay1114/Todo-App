@@ -1,0 +1,21 @@
+
+.register-form{
+    min-height: 500px;
+    width: 400px;
+    margin: 60px auto;
+}
+.credential-form{
+    width: 400px;
+    margin: 60px auto;
+}
+.header{
+    
+    font-family: garamond,serif;
+    color:#8FBC8F;
+    width: 400px;
+    margin: 60px auto;
+}
+.add-item{
+    width: 400px;
+    margin: 60px auto;
+}

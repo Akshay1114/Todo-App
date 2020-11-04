@@ -1,0 +1,45 @@
+body{
+  background-color: #9266ff;
+}
+.tag{
+  margin: 40px auto;
+  border-radius: 2px;
+  font-family: Arial;
+  min-height:5px ;
+  background-color: thistle;
+  text-align: center;
+  width:300px ;
+}
+.form{
+  background-color: #3f3160;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
+.input{
+  background-color: rgb(27,112,137);
+  border: 0;
+  width: 200px;
+  height:50px ;
+  padding:0 20px ;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 16px;
+  color: #ffffff;
+}
+.input::placeholder{
+  color: rgba(255,255,255,0.5);
+}
+.input:focus{
+  outline: none;
+}
+.todo-button{
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0px;
+  background-color: rgb(202,156,24);
+  cursor: pointer;
+  font-weight: bolder;
+  color: #ffffff;
+}
